@@ -6,7 +6,7 @@ A modern **Netflix Clone** built using React.js that replicates the core UI and 
 
 ## 🚀 Live Demo
 
-🔗 https://your-netlify-link.netlify.app
+🔗 https://manamovie.netlify.app/
 
 ---
 
